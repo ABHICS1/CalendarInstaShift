@@ -1,0 +1,23 @@
+.form{
+    background-color: lightgrey;
+    width: 400px;
+    border: 20px solid rgb(255, 208, 0);
+    padding: 25px;
+    margin: 25px;
+    margin-left: 25%;
+    background-color: rgb(223, 255, 160);
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 8%;
+    font-size: 20px;
+    font-family: sans-serif;   
+}
+.button{
+    background-color: rgb(0, 255, 255);
+    color: rgb(0, 0, 0);
+    border: 2px solid yellow;
+    font-size: 25px;
+    margin-left: 25%;
+    margin: 25px;
+}

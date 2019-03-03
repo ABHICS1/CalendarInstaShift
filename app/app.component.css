@@ -1,0 +1,31 @@
+.head{
+    text-align: center;
+    font-size: 50px;
+    color: red;
+    
+}
+.button1{
+    
+        background-color: white;
+        color: rgb(0, 0, 0);
+        border: 2px solid #ff0000;
+        font-size: 35px;
+        font-style: oblique;
+}
+.button1:hover {
+    background-color: #ff0000;
+    color: white;
+}
+.button2{
+    
+    background-color: white;
+    color: rgb(0, 0, 0);
+    border: 2px solid #ff0000;
+    font-size: 35px;
+    font-style: oblique;
+}
+.button2:hover {
+background-color: green;
+color: white;
+}
+  

@@ -1,0 +1,22 @@
+<html>
+<body>
+<div class="form">
+<form id="myForm" action="/action_page.php">
+  Date: <br> <input type="date" id="myDate" value=""><br>
+  Start time:<br> <input type="time" id="myTime1" value="00:00:00"><br>
+  End time: <br> <input type="time" id="myTime2" value="00:00:01"><br>
+  Event: <br> <input type="text" name="fname" value="Type your event"><br>
+  <input class="button" type="submit" value="Submit">
+</form>
+</div>
+<p id="demo"></p>
+<script>
+function myFunction() {
+  var x = document.getElementById("myForm").action;
+  document.getElementById("demo").innerHTML = x;
+}
+</script>
+
+</body>
+</html>
+
